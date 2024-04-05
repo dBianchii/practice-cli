@@ -1,1 +1,2 @@
-console.log("asd");
+#!/usr/bin/env node
+console.log("object");
